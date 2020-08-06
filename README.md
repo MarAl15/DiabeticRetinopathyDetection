@@ -46,5 +46,3 @@ Area of blood vessels is determined by finding the total number of white (vessel
 In this work, it was decided to make a comparison between **decision tree** and **Support Vector Machine (SVM)** classifier with different kernels.
 
 The **5-fold cross-validation** is applied to verify the reliability of results we can obtain, evaluating the efficiency based on parameters of sensitivity, specificity and accuracy.
-
-The 5-fold cross-validation is applied to verify the reliability of results we can obtain, evaluating the efficiency based on parameters of sensitivity, specificity and accuracy.
