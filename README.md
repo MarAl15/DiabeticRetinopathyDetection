@@ -2,9 +2,7 @@
 
 **Diabetic Retinopathy (DR)** is a disease of retina, which affects patients with diabetes, and it is a main reason for blindness. Its early detection, together with an appropriate treatment, can reduce the risks. 
 
-This project proposes an automatic detector of diabetic retinopathy ba-
-sed on the combination of image segmentation, featuring extraction and
-binary classification.
+This project proposes an automatic detector of diabetic retinopathy based on the combination of image segmentation, featuring extraction and binary classification.
 
 The process of detection and segmentation of some lesions of diabetic retinopathy is accomplished by the use of image processing techniques. First, the segmentation of image is carried out, which includes the isolation of blood vessels, hard exudates and microaneurysms. Then the classifier is trained so as to allow the extracted features to classify in normal o DR images.
 
